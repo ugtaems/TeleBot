@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-THIS_DIR=$(cd $(dirname $0); pwd)
+THIS_DIR=$(cd $(dirname $0); 
 cd $THIS_DIR
 
 update() {
